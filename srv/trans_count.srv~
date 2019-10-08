@@ -1,0 +1,5 @@
+string words
+uint32 num
+---
+uint32 count
+uint32 b
